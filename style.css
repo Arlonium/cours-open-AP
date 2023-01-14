@@ -1,0 +1,22 @@
+h1 {
+    color: pink;
+}
+
+p {
+    color: pink;
+}
+
+.ma_classe {
+    color: pink;
+}
+ .grand_texte {
+    font-size: 50px;
+ }
+
+ .grand_texte_2 {
+    font-size: 40px;
+ }
+
+.police {
+    font-family: 'Great Vibes', cursive;
+}
